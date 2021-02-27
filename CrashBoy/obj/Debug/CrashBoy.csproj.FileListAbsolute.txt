@@ -1,0 +1,47 @@
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\bin\Debug\CrashBoy.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\bin\Debug\CrashBoy.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\bin\Debug\CrashBoy.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\obj\Debug\CrashBoy.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\obj\Debug\CrashBoy.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\obj\Debug\CrashBoy.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\obj\Debug\CrashBoy.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\obj\Debug\CrashBoy.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\obj\Debug\CrashBoy.pdb
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\bin\Debug\CrashBoy.exe.config
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\bin\Debug\CrashBoy.exe
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\bin\Debug\CrashBoy.pdb
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\obj\Debug\Interop.WMPLib.dll
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.csproj.ResolveComReference.cache
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.FormGame.resources
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.FormHome.resources
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.Properties.Resources.resources
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.csproj.GenerateResource.Cache
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.exe
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\obj\Debug\Interop.WMPLib.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\obj\Debug\CrashBoy.csproj.ResolveComReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\obj\Debug\CrashBoy.FormGame.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\obj\Debug\CrashBoy.FormHome.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\bin\Debug\Resources\Cheery Monday.mp3
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\bin\Debug\Resources\Hurt.aiff
+C:\Users\Varianto\Documents\Tugas Kuliah\ALPRO\CrashBoy\CrashBoy\obj\Debug\CrashBoy.FormGameOver.resources
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\bin\Debug\Resources\Cheery Monday.mp3
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\bin\Debug\Resources\Hurt.aiff
+C:\Users\Varianto\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.FormGameOver.resources
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\bin\Debug\CrashBoy.exe.config
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\obj\Debug\Interop.WMPLib.dll
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.csproj.ResolveComReference.cache
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.exe
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.pdb
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.csprojResolveAssemblyReference.cache
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.FormGame.resources
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.FormGameOver.resources
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.FormHome.resources
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.Properties.Resources.resources
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\obj\Debug\CrashBoy.csproj.GenerateResource.Cache
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\bin\Debug\Resources\Cheery Monday.mp3
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\bin\Debug\Resources\Hurt.aiff
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\bin\Debug\CrashBoy.exe
+C:\Users\a20\Downloads\CrashBoy\CrashBoy\bin\Debug\CrashBoy.pdb

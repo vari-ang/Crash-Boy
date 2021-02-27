@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7DDE723C-FA8D-494A-8256-6D8D5573F104}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrashBoy/FormGame.cs">
+    <Files>
+      <File FileName="CrashBoy/FormGame.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CrashBoy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
